@@ -19,6 +19,7 @@ body {
   --secondary-color: #ffffff;
   --accent-color: #000000;
   --bg-color: #f8f8f8;
+  --bg-color-dark: #02080e;
 }
 .primary-button {
   border-radius: 50px;
@@ -136,4 +137,8 @@ body {
   background-position: center;
   background-size: cover;
   color: var(--secondary-color);
+}
+/* Find us */
+.find_us {
+  padding: 80px 0;
 }
