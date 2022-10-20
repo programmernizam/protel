@@ -129,3 +129,11 @@ body {
 .feature {
   padding: 80px 0;
 }
+.festival_offer {
+  padding: 80px 0;
+  background-image: url(../assets/offer_2.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: var(--secondary-color);
+}
