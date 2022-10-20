@@ -116,3 +116,12 @@ body {
 .service_heading {
   font-size: 19px;
 }
+/* Exclusive Offer */
+.exclusive_offer {
+  padding: 80px 0;
+  background-image: url(../assets/offer_bg.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: var(--secondary-color);
+}
