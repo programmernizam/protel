@@ -150,3 +150,7 @@ body {
   padding: 80px 0;
   background-color: var(--bg-color-dark);
 }
+/* Footer */
+.footer {
+  padding: 80px 0;
+}
