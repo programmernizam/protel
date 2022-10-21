@@ -21,6 +21,9 @@ body {
   --bg-color: #f8f8f8;
   --bg-color-dark: #02080e;
 }
+.text_danger {
+  color: var(--primary-color);
+}
 .primary-button {
   border-radius: 50px;
   background-color: var(--primary-color);
@@ -141,4 +144,9 @@ body {
 /* Find us */
 .find_us {
   padding: 80px 0;
+}
+/* Stream */
+.stream {
+  padding: 80px 0;
+  background-color: var(--bg-color-dark);
 }
